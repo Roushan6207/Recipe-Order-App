@@ -80,16 +80,6 @@ To run the project locally, you’ll need:
   - **GET** `/recipes/complexSearch`
   - **GET** `/recipes/{id}/information`
 
-## Screenshots
-
-1. **Home Page**  
-   ![Home Page](./screenshots/home-page.png)
-
-2. **Recipe Details Page**  
-   ![Recipe Details Page](./screenshots/recipe-details-page.png)
-
-3. **Foodista Redirection**  
-   ![Order on Foodista](./screenshots/foodista-order.png)
 
 ## License
 
