@@ -5,7 +5,7 @@ body {
   }
   
   header {
-    background: #0c2461;
+    background: #681414;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -58,7 +58,7 @@ body {
   }
   
   .recipe-item a {
-    background: #0c2461;
+    background: #840507;
     color: #fff;
     min-width: 150px;
     padding: 10px;
@@ -69,7 +69,7 @@ body {
   }
   
   .recipe-item a:hover {
-    background: #1e3799;
+    background: #480202;
   }
   
   @media screen and (max-width: 768px) {
